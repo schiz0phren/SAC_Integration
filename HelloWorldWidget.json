@@ -7,7 +7,7 @@
 	"id": "com.sap.sample.helloworld1",
 	"newInstancePrefix": "HelloWorld1",
 	"version": "0.0.1",
-	"icon": "https://torbenhe1997.github.io/SAC_Integration/static/icon.png",
+	"icon": "https://torbenhe1997.github.io/SAC_Integration/icon.png",
 	"webcomponents": [
         {
 			"kind": "main",
