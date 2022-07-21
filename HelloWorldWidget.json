@@ -12,7 +12,7 @@
         {
 			"kind": "main",
 			"tag": "com-sap-sample-helloworld1",
-            "url": "https://davidhstocker.github.io/SAC_CustomWidget_HelloWorld_1/webcomponent.js",
+            "url": "https://torbenhe1997.github.io/SAC_Integration/webcomponent.js",
             "integrity": "",
             "ignoreIntegrity" : true
         }
